@@ -8,13 +8,13 @@
 #include <cmath>
 #include <SFML/Graphics.hpp>
 
-const int n = 900;
-int WIDTH = 900;
-int HEIGHT = 900;
+const int n = 250;
+int WIDTH = 500;
+int HEIGHT = 500;
 int CELL_SIZE;
 const int UNDER_POP = 2;
 const int OVER_POP = 3;
-const int FPS = 1000;
+const int FPS = 10;
 const std::string WINDOW_TITLE = "Game Of Life | DTECH";
 
 int ar[n][n];
