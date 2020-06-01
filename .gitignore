@@ -1,0 +1,9 @@
+#dot files
+.*
+!/.gitignore
+
+#SFML library
+SFML*
+
+#Binaries
+game*
