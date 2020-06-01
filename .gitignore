@@ -6,4 +6,5 @@
 SFML*
 
 #Binaries
-game*
+game.exe
+gameoflife
